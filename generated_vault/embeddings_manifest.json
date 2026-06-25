@@ -1,48 +1,564 @@
 {
   "generated_on": "2026-06-25T00:00:00Z",
   "notes": [
-    { "note_path": "generated_vault/01_基础理论与学科定位.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/02_坐标系统与投影.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/03_数据模型与格式.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/04_中国三大坐标系实战.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/05_国家测绘标准体系.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/06_数据生产流程规范.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/07_质量检查与验收标准.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/08_成果汇交与归档规范.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/09_新型基础测绘实体规范.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/10_测绘建库行业流程图集.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/12_ArcGIS_Pro.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/13_QGIS.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/14_CASS11.0.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/15_iData_数据工厂.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/16_SuperMap_iDesktopX.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/17_GlobalMapper.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/18_FME_Form与Flow.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/19_多源数据融合.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/20_GIS资源共享.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/21_Python_GIS生态.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/22_空间数据库.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/23_WebGIS开发.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/24_遥感与GEE.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/25_三维GIS与数字孪生.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/26_WorkBuddyGIS_AddIn开发.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/27_AI_GIS.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/28_项目案例集.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/29_避坑库.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/30_GIS↔CAD数据转换.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/31_学习路径与认证资源.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/32_GNSS测量与工程应用.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/33_空间分析与统计.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/35_专家级批量处理与自动化实战指南.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/36_LiDAR360_点云处理软件.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/37_自进化反馈机制.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/38_ArcGIS_Pro_3.7_新功能详解.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/39_R语言GIS生态.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/40_OGC国际标准速查手册.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/41_现代GIS数据处理管道.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/42_多语言地理空间库生态.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/43_格式选择决策树与反模式.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/44_QGIS_Processing算法速查手册.md", "chunks": 1, "embedding": null },
-    { "note_path": "generated_vault/45_GIS_Agent技能设计范式.md", "chunks": 1, "embedding": null }
+    {
+      "note_path": "generated_vault/01_基础理论与学科定位.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "01_基础理论与学科定位.md#chunk-0",
+          "excerpt": "本模块介绍 GIS 的定义、发展历史、学科定位与主要应用领域。",
+          "provenance": "README.md#L81-L87",
+          "tokens_est": 10,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/02_坐标系统与投影.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "02_坐标系统与投影.md#chunk-0",
+          "excerpt": "介绍椭球体、基准、地理坐标系（GCS）与投影坐标系（PCS）、常见 EPSG 编号与注意事项。",
+          "provenance": "README.md#L85-L87",
+          "tokens_est": 20,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/03_数据模型与格式.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "03_数据模型与格式.md#chunk-0",
+          "excerpt": "矢量/栅格/TIN/点云 数据模型与云原生格式（GeoParquet/COG/PMTiles）以及格式选择要点。",
+          "provenance": "README.md#L86-L87",
+          "tokens_est": 22,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/04_中国三大坐标系实战.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "04_中国三大坐标系实战.md#chunk-0",
+          "excerpt": "北京54/西安80/CGCS2000 的转换实战、七参数与工程注意事项。",
+          "provenance": "README.md#L86-L87",
+          "tokens_est": 16,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/05_国家测绘标准体系.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "05_国家测绘标准体系.md#chunk-0",
+          "excerpt": "国家测绘标准速查、核心 GB/T 和行业标准摘要与映射。",
+          "provenance": "README.md#L89-L96",
+          "tokens_est": 14,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/06_数据生产流程规范.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "06_数据生产流程规范.md#chunk-0",
+          "excerpt": "DLG/DEM/DOM 等成果的生产 SOP、质量控制点与交付规范。",
+          "provenance": "README.md#L90-L95",
+          "tokens_est": 16,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/07_质量检查与验收标准.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "07_质量检查与验收标准.md#chunk-0",
+          "excerpt": "质量检查标准（GB/T 等）与自动化质检 SOP。",
+          "provenance": "README.md#L92-L96",
+          "tokens_est": 12,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/08_成果汇交与归档规范.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "08_成果汇交与归档规范.md#chunk-0",
+          "excerpt": "交付模板、命名规则、图幅编号与归档要求。",
+          "provenance": "README.md#L95-L96",
+          "tokens_est": 12,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/09_新型基础测绘实体规范.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "09_新型基础测绘实体规范.md#chunk-0",
+          "excerpt": "地理实体与新型基础测绘规范（17级网格、实体编码等）。",
+          "provenance": "README.md#L94-L95",
+          "tokens_est": 14,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/10_测绘建库行业流程图集.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "10_测绘建库行业流程图集.md#chunk-0",
+          "excerpt": "用 Mermaid 等图示的行业标准流程图集合，便于可视化流程审核。",
+          "provenance": "README.md#L95",
+          "tokens_est": 18,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/12_ArcGIS_Pro.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "12_ArcGIS_Pro.md#chunk-0",
+          "excerpt": "ArcGIS Pro 使用指南、扩展、ModelBuilder、ArcPy 示例（v3.6 基线文档）。",
+          "provenance": "README.md#L98-L100",
+          "tokens_est": 20,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/13_QGIS.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "13_QGIS.md#chunk-0",
+          "excerpt": "QGIS 完整教材（PyQGIS 教程、Processing 算法速查、200+ 算法 ID）。",
+          "provenance": "README.md#L98-L108",
+          "tokens_est": 20,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/14_CASS11.0.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "14_CASS11.0.md#chunk-0",
+          "excerpt": "CASS 11.0 的编码、文件体系与工作流说明。",
+          "provenance": "README.md#L100-L104",
+          "tokens_est": 12,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/15_iData_数据工厂.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "15_iData_数据工厂.md#chunk-0",
+          "excerpt": "iData 平台的入库、质量检验与自动化流程说明。",
+          "provenance": "README.md#L101",
+          "tokens_est": 14,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/16_SuperMap_iDesktopX.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "16_SuperMap_iDesktopX.md#chunk-0",
+          "excerpt": "SuperMap iDesktopX 的特性与 AgentX 集成示例。",
+          "provenance": "README.md#L102",
+          "tokens_est": 12,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/17_GlobalMapper.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "17_GlobalMapper.md#chunk-0",
+          "excerpt": "GlobalMapper 功能与脚本集成说明（v26.2）。",
+          "provenance": "README.md#L103",
+          "tokens_est": 10,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/18_FME_Form与Flow.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "18_FME_Form与Flow.md#chunk-0",
+          "excerpt": "FME 的 Form/Flow 工作流、性能优化与自动化技巧。",
+          "provenance": "README.md#L104",
+          "tokens_est": 12,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/19_多源数据融合.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "19_多源数据融合.md#chunk-0",
+          "excerpt": "多源数据融合的方法论（坐标统一、点云配准、三维互转）与实战建议。",
+          "provenance": "README.md#L105",
+          "tokens_est": 18,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/20_GIS资源共享.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "20_GIS资源共享.md#chunk-0",
+          "excerpt": "全球与中国的 GIS 数据源、在线服务（WMS/WFS）及共享策略。",
+          "provenance": "README.md#L106",
+          "tokens_est": 16,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/21_Python_GIS生态.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "21_Python_GIS生态.md#chunk-0",
+          "excerpt": "Python GIS 工具链（GeoPandas/Rasterio/Shapely/pyproj/GDAL/DuckDB Spatial）与示例代码。",
+          "provenance": "README.md#L111",
+          "tokens_est": 26,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/22_空间数据库.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "22_空间数据库.md#chunk-0",
+          "excerpt": "PostGIS/GDB/GeoPackage 等空间数据库的原理与操作指南。",
+          "provenance": "README.md#L111",
+          "tokens_est": 14,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/23_WebGIS开发.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "23_WebGIS开发.md#chunk-0",
+          "excerpt": "Web 前端地图框架（Leaflet/OpenLayers/Cesium）、PMTiles 部署与静态瓦片策略。",
+          "provenance": "README.md#L113",
+          "tokens_est": 20,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/24_遥感与GEE.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "24_遥感与GEE.md#chunk-0",
+          "excerpt": "Landsat/Sentinel 数据与 GEE 平台的使用方法、处理流程与指标（NDVI 等）。",
+          "provenance": "README.md#L114",
+          "tokens_est": 22,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/25_三维GIS与数字孪生.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "25_三维GIS与数字孪生.md#chunk-0",
+          "excerpt": "倾斜摄影、3DTiles、CityGML、OSGB 等三维 GIS 技术与轻量化策略。",
+          "provenance": "README.md#L115",
+          "tokens_est": 22,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/26_WorkBuddyGIS_AddIn开发.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "26_WorkBuddyGIS_AddIn开发.md#chunk-0",
+          "excerpt": "ArcGIS Pro 插件（AddIn）开发经验与实例代码。",
+          "provenance": "README.md#L116",
+          "tokens_est": 12,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/27_AI_GIS.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "27_AI_GIS.md#chunk-0",
+          "excerpt": "GeoAI 与深度学习在遥感解译与点云分类中的应用示例。",
+          "provenance": "README.md#L117",
+          "tokens_est": 14,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/28_项目案例集.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "28_项目案例集.md#chunk-0",
+          "excerpt": "10 大行业案例与可执行步骤（含光纤故障预测、气候脆弱性评估）。",
+          "provenance": "README.md#L121",
+          "tokens_est": 18,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/29_避坑库.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "29_避坑库.md#chunk-0",
+          "excerpt": "160+ 条避坑条目（WRONG/CORRECT/WHY 结构），用于快速定位常见错误与修复建议。",
+          "provenance": "README.md#L122",
+          "tokens_est": 24,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/30_GIS↔CAD数据转换.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "30_GIS↔CAD数据转换.md#chunk-0",
+          "excerpt": "GIS 与 CAD 数据互转方法论（映射表、XDATA、四步探查法）。",
+          "provenance": "README.md#L123",
+          "tokens_est": 16,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/31_学习路径与认证资源.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "31_学习路径与认证资源.md#chunk-0",
+          "excerpt": "学习路线与认证建议，适合职业发展规划。",
+          "provenance": "README.md#L140",
+          "tokens_est": 12,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/32_GNSS测量与工程应用.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "32_GNSS测量与工程应用.md#chunk-0",
+          "excerpt": "GPS/BDS/RTK/PPK/CORS 的使用指南与工程实施要点。",
+          "provenance": "README.md#L123",
+          "tokens_est": 14,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/33_空间分析与统计.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "33_空间分析与统计.md#chunk-0",
+          "excerpt": "Moran's I、Kriging、DBSCAN 等空间统计与分析方法及示例代码。",
+          "provenance": "README.md#L125",
+          "tokens_est": 18,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/35_专家级批量处理与自动化实战指南.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "35_专家级批量处理与自动化实战指南.md#chunk-0",
+          "excerpt": "ArcPy 性能优化、FME 调优、QGIS Processing 批处理等专家级批量处理技巧。",
+          "provenance": "README.md#L116",
+          "tokens_est": 24,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/36_LiDAR360_点云处理软件.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "36_LiDAR360_点云处理软件.md#chunk-0",
+          "excerpt": "LiDAR360 点云分类算法对比（PTD vs CSF）、32 类 AI 自动分类、林业单木提取等实践。",
+          "provenance": "README.md#L107",
+          "tokens_est": 26,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/37_自进化反馈机制.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "37_自进化反馈机制.md#chunk-0",
+          "excerpt": "反馈驱动迭代、知识缺口检测、增量搜索与版本自动升级机制。",
+          "provenance": "README.md#L136",
+          "tokens_est": 18,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/38_ArcGIS_Pro_3.7_新功能详解.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "38_ArcGIS_Pro_3.7_新功能详解.md#chunk-0",
+          "excerpt": "ArcGIS Pro 3.7 相对于 3.6 的新增功能解读（File Knowledge Graph、Embeddings 等）。",
+          "provenance": "README.md#L108",
+          "tokens_est": 24,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/39_R语言GIS生态.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "39_R语言GIS生态.md#chunk-0",
+          "excerpt": "R 语言在 GIS 中的生态（terra/sf/tmap/leaflet）与集成示例。",
+          "provenance": "README.md#L128",
+          "tokens_est": 18,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/40_OGC国际标准速查手册.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "40_OGC国际标准速查手册.md#chunk-0",
+          "excerpt": "WMS/WFS/WMTS/OGC API 等 60+ 标准的速查与映射。",
+          "provenance": "README.md#L129",
+          "tokens_est": 14,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/41_现代GIS数据处理管道.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "41_现代GIS数据处理管道.md#chunk-0",
+          "excerpt": "7 种管道模式、可重现性要求、验证清单与反模式。",
+          "provenance": "README.md#L130",
+          "tokens_est": 12,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/42_多语言地理空间库生态.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "42_多语言地理空间库生态.md#chunk-0",
+          "excerpt": "JTS→GEOS→Shapely→NTS→JSTS 的几何引擎链与跨语言决策矩阵。",
+          "provenance": "README.md#L131",
+          "tokens_est": 22,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/43_格式选择决策树与反模式.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "43_格式选择决策树与反模式.md#chunk-0",
+          "excerpt": "格式选择的决策树、Shapefile 弃用时间表与 15×9 格式矩阵。",
+          "provenance": "README.md#L132",
+          "tokens_est": 18,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/44_QGIS_Processing算法速查手册.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "44_QGIS_Processing算法速查手册.md#chunk-0",
+          "excerpt": "QGIS Processing 的算法 ID 速查（50+ 算法速查）与编程模板。",
+          "provenance": "README.md#L133",
+          "tokens_est": 20,
+          "embedding": null
+        }
+      ]
+    },
+    {
+      "note_path": "generated_vault/45_GIS_Agent技能设计范式.md",
+      "chunks": 1,
+      "chunks_list": [
+        {
+          "chunk_id": "45_GIS_Agent技能设计范式.md#chunk-0",
+          "excerpt": "GIS Agent 的设计模式（Reviewer/Inversion/Pipeline/Orchestrator）、提示词工程与评估框架。",
+          "provenance": "README.md#L134",
+          "tokens_est": 28,
+          "embedding": null
+        }
+      ]
+    }
   ]
 }
