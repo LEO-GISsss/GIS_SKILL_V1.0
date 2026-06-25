@@ -1,0 +1,217 @@
+  {
+    "note_path": "generated_vault/01_基础理论与学科定位.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/02_坐标系统与投影.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/03_数据模型与格式.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/04_中国三大坐标系实战.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/05_国家测绘标准体系.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/06_数据生产流程规范.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/07_质量检查与验收标准.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/08_成果汇交与归档规范.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/09_新型基础测绘实体规范.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/10_测绘建库行业流程图集.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/12_ArcGIS_Pro.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/13_QGIS.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/14_CASS11.0.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/15_iData_数据工厂.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/16_SuperMap_iDesktopX.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/17_GlobalMapper.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/18_FME_Form与Flow.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/19_多源数据融合.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/20_GIS资源共享.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/21_Python_GIS生态.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/22_空间数据库.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/23_WebGIS开发.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/24_遥感与GEE.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/25_三维GIS与数字孪生.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/26_WorkBuddyGIS_AddIn开发.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/27_AI_GIS.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/28_项目案例集.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/29_避坑库.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/30_GIS↔CAD数据转换.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/31_学习路径与认证资源.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/32_GNSS测量与工程应用.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/33_空间分析与统计.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/35_专家级批量处理与自动化实战指南.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/36_LiDAR360_点云处理软件.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/37_自进化反馈机制.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/38_ArcGIS_Pro_3.7_新功能详解.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/39_R语言GIS生态.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/40_OGC国际标准速查手册.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/41_现代GIS数据处理管道.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/42_多语言地理空间库生态.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/43_格式选择决策树与反模式.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/44_QGIS_Processing算法速查手册.md",
+    "chunks": 1,
+    "embedding": null
+  },
+  {
+    "note_path": "generated_vault/45_GIS_Agent技能设计范式.md",
+    "chunks": 1,
+    "embedding": null
+  }
+]
+}
